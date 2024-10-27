@@ -1,4 +1,4 @@
-![ddnet]https://github.com/XwEworD/XwEworD/blob/main/ddnet.png
+![ddnet](https://github.com/XwEworD/XwEworD/blob/main/ddnet.png)
 Hi! Im 11 years old.
 I use Gentoo.
 I play DDraceNetwork (DDNet)
