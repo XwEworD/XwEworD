@@ -1,7 +1,7 @@
-# XwEworD / AcHop
+# XwEworD / ?Slacker
 
 ![ddnet](https://github.com/XwEworD/XwEworD/blob/main/ddnet.png)
-Hi! Im 11 years old.
+Hi! Im 12 years old.
 ---
 I use Gentoo.
 ---
